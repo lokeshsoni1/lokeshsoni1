@@ -13,3 +13,41 @@ am actively exploring low-level and systems programming concepts.
 - 🦀 Learning Rust to better understand memory safety and systems design
 - 🍎 Exploring Swift (basics)
 - 🐍 Familiar with Python ecosystem and Anaconda
+
+## Technical Stack
+
+### Languages
+![Skills](https://skillicons.dev/icons?i=c,cpp,java,python,rust,swift)
+
+### Tools & Environment
+![Tools](https://skillicons.dev/icons?i=linux,git,github,vscode,anaconda)
+
+
+## Data Structures & Algorithms
+
+- Arrays, Strings, Recursion
+- Linked List, Stack, Queue
+- Trees & Binary Search Trees
+- Searching & Sorting
+- Graph concepts
+- Time & Space Complexity
+
+Languages used: C, C++, Java, Python
+
+
+## Current Focus
+
+- Strengthening DSA with Java
+- Practicing DSA using C++
+- Learning Rust fundamentals
+- Writing clean and efficient code
+
+## GitHub Stats
+
+![Lokesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=lokeshsoni1&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshsoni1&layout=compact&theme=radical)
+
+
+
+
