@@ -42,12 +42,6 @@ Languages used: C, C++, Java, Python
 - Learning Rust fundamentals
 - Writing clean and efficient code
 
-## GitHub Stats
-
-![Lokesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=lokeshsoni1&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshsoni1&layout=compact&theme=radical)
-
 
 
 
