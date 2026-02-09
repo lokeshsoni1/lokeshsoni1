@@ -17,7 +17,7 @@ am actively exploring low-level and systems programming concepts.
 ## Technical Stack
 
 ### Languages
-![Skills](https://skillicons.dev/icons?i=c,cpp,java,python,rust,swift)
+![Skills](https://skillicons.dev/icons?i=c,cpp,java,python,rust,swift,flask)
 
 ### Tools & Environment
 ![Tools](https://skillicons.dev/icons?i=linux,git,github,vscode,anaconda)
