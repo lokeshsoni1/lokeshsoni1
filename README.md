@@ -1,5 +1,5 @@
 # Hello 👋 I'm Lokesh Soni
-I am a Java backend-focused developer with a strong foundation in Data Structures & Algorithms.  
+I am a `Java backend-focused developer` with a strong foundation in Data Structures & Algorithms.  
 I enjoy building real-world applications using Spring Boot and REST APIs, and continuously improving my problem-solving skills.  
 
 I have hands-on experience developing and deploying full-stack projects, and I am currently focused on strengthening my backend fundamentals and building scalable systems.  
