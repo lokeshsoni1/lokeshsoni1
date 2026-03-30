@@ -1,18 +1,18 @@
 # Hello 👋 I'm Lokesh Soni
-I am a problem-solving focused programmer with strong foundations in Java and
-Data Structures & Algorithms. I enjoy working close to the system layer and
-am actively exploring low-level and systems programming concepts.
+I am a Java backend-focused developer with a strong foundation in Data Structures & Algorithms.  
+I enjoy building real-world applications using Spring Boot and REST APIs, and continuously improving my problem-solving skills.  
+
+I have hands-on experience developing and deploying full-stack projects, and I am currently focused on strengthening my backend fundamentals and building scalable systems.  
+
 
 ## About Me
 
-- 💡 Strong in Java and core Data Structures & Algorithms
-- 🔁 Practicing DSA using C++, C, and Python
-- 🧠 Interested in low-level programming, compilers, and fuzzing systems
-- 🧪 Contributing to AFL++ through documentation improvements and learning
-      the internals of modern fuzzing workflows  
-- 🦀 Learning Rust to better understand memory safety and systems design
-- 🍎 Exploring Swift (basics)
-- 🐍 Familiar with Python ecosystem and Anaconda
+- Strong in Java with a good understanding of core Data Structures & Algorithms  
+- Actively practicing DSA to improve problem-solving skills  
+- Hands-on experience with Java (Spring Boot) through real-world projects  
+- Familiar with C, C++, and Python for programming fundamentals  
+- Basic knowledge of JavaScript, HTML, and CSS  
+- Comfortable using Git & GitHub for version control  
 
 ## Technical Stack
 
