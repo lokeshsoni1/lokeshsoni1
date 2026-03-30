@@ -14,13 +14,14 @@ I have hands-on experience developing and deploying full-stack projects, and I a
 - Basic knowledge of JavaScript, HTML, and CSS  
 - Comfortable using Git & GitHub for version control  
 
+
 ## Technical Stack
 
 ### Languages
-![Skills](https://skillicons.dev/icons?i=c,cpp,java,python,rust,swift,flask)
+![Skills](https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,spring)
 
 ### Tools & Environment
-![Tools](https://skillicons.dev/icons?i=linux,git,github,vscode,anaconda)
+![Tools](https://skillicons.dev/icons?i=linux,git,github,vscode,anaconda,postman)
 
 
 ## Data Structures & Algorithms
@@ -34,13 +35,6 @@ I have hands-on experience developing and deploying full-stack projects, and I a
 
 Languages used: C, C++, Java, Python
 
-
-## Current Focus
-
-- Strengthening DSA with Java
-- Practicing DSA using C++
-- Learning Rust fundamentals
-- Writing clean and efficient code
 
 
 
